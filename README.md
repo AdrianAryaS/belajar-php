@@ -1,2 +1,2 @@
-# belajar-php
-ganbatte!!
+# belajar php
+
